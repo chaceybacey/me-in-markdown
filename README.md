@@ -1,7 +1,6 @@
+
 # Me in Markdown
 ## Introduction
-
-### Hello this is my intro to me!
 
  My name is Chace Suchintamai and I'm in 10th grade. I have Thai and Chinese heritage dating from probably thousands of years. I have two siblings: a younger brother who is eight and and older sister who is twenty four. My favorite movie or rather movie series is Cars because I just loved watching Lightning McQueen as a little kid. I always enjoyed seeing the race scenes, especially that big crash in the beginning of Cars 1.  Some other series that I like to watch are Dexter, Young Sheldon, You, and etc. I am always open to watch new series or shows that come out or are interesting. 
 
@@ -10,12 +9,11 @@
  I've already mentioned that I do swimming, but I also do long distance running. Slowly but surely, my cardiovascular endurance has been getting improving 
 
 
-## My Playlist
-[This is my Spotify playlist:] https://open.spotify.com/playlist/3YtEA9BTYFK2uYiJDaSWcc?si=86XFJHv3SxCU9VzThw4Pkw
+### This is my Spotify playlist: 
+https://open.spotify.com/playlist/3YtEA9BTYFK2uYiJDaSWcc?si=86XFJHv3SxCU9VzThw4Pkw
 
 
 
 ## Collage/Moodboard
-
 
 
