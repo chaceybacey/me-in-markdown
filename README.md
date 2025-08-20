@@ -10,10 +10,10 @@
 
 
 ### This is my Spotify playlist:
- https://open.spotify.com/playlist/3YtEA9BTYFK2uYiJDaSWcc?si=86XFJHv3SxCU9VzThw4Pkw
+[This is my spotify playlist!
+](https://open.spotify.com/playlist/3YtEA9BTYFK2uYiJDaSWcc?si=86XFJHv3SxCU9VzThw4Pkw)
 
 
 
-## Collage/Moodboard
-
-
+## Collage/Moodboard 
+![alt text](image.png)
